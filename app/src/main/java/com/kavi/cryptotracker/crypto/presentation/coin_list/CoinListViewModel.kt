@@ -80,6 +80,7 @@ class CoinListViewModel(
         }
     }
 
+
     private fun loadCoins() {
         viewModelScope.launch {
             _state.update {

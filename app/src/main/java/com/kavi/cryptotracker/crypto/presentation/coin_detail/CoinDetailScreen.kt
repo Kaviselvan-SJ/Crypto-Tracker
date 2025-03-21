@@ -130,6 +130,7 @@ fun CoinDetailScreen(
                     contentColor = contentColor
                 )
             }
+
             AnimatedVisibility(
                 visible = coin.coinPriceHistory.isNotEmpty()
             ) {

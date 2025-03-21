@@ -19,6 +19,7 @@ fun CoinDto.toCoin(): Coin {
     )
 }
 
+
 fun CoinPriceDto.toCoinPrice(): CoinPrice {
     return CoinPrice(
         priceUsd = priceUsd,

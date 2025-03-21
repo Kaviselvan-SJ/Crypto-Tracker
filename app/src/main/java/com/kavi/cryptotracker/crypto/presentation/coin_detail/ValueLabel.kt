@@ -3,6 +3,7 @@ package com.kavi.cryptotracker.crypto.presentation.coin_detail
 import java.text.NumberFormat
 import java.util.Locale
 
+
 data class ValueLabel(
     val value: Float,
     val unit: String
