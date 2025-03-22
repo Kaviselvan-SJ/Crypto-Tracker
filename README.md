@@ -43,15 +43,15 @@ Crypto Tracker is a modern cryptocurrency tracking app built using **Jetpack Com
 
 | Dark Mode | Light Mode |
 |------------|-----------|
-|<img src="https://github.com/user-attachments/assets/e38029c5-d53a-4473-94c3-2f7d0b76cf7b"  height="500" width="240"/>|<img src="https://github.com/user-attachments/assets/9e89a2d0-0832-490e-90be-f66a27ea4cbf" height="500" width="240"/>|
-|<img src="https://github.com/user-attachments/assets/1f6b48ce-4b01-4fd4-a554-7bd1ba9dc1a0"  height="500" width="240"/>|<img src="https://github.com/user-attachments/assets/f13b51b8-49d2-4528-afa5-9cca935de0b3" height="500" width="240"/>|
-|<img src="https://github.com/user-attachments/assets/31916bb8-4382-40e7-8b2d-1ead7f5ef890" height="500" width="240"/>|<img src="https://github.com/user-attachments/assets/fbb9268c-c2bd-4918-8467-4e3949b28731" height="500" width="240"/>|
+|<img src="https://github.com/user-attachments/assets/e38029c5-d53a-4473-94c3-2f7d0b76cf7b" />|<img src="https://github.com/user-attachments/assets/9e89a2d0-0832-490e-90be-f66a27ea4cbf"/>|
+|<img src="https://github.com/user-attachments/assets/1f6b48ce-4b01-4fd4-a554-7bd1ba9dc1a0" />|<img src="https://github.com/user-attachments/assets/f13b51b8-49d2-4528-afa5-9cca935de0b3"/>|
+|<img src="https://github.com/user-attachments/assets/31916bb8-4382-40e7-8b2d-1ead7f5ef890" />|<img src="https://github.com/user-attachments/assets/fbb9268c-c2bd-4918-8467-4e3949b28731"/>|
 
 ### 📺 Landscape Mode
 
-| Daek Mode | Light Mode |
+| Dark Mode | Light Mode |
 |------------|-----------|
-|<img src="https://github.com/user-attachments/assets/7d501313-6745-42a4-93bc-0ed32fe24ea7" width="600"/>|<img src="https://github.com/user-attachments/assets/f012cd9e-4a3a-4162-a8d5-3769eae92d0b" width="600"/>|
+|<img src="https://github.com/user-attachments/assets/7d501313-6745-42a4-93bc-0ed32fe24ea7" />|<img src="https://github.com/user-attachments/assets/f012cd9e-4a3a-4162-a8d5-3769eae92d0b"/>|
 
 
 
